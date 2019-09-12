@@ -12,21 +12,21 @@ class DevProfiles extends React.Component {
       devs: [
         ['Jacob Banks',
           ['imageURL', jacob],
-          ['LinkedIn', 'www.linkedin.com/in/jacobjbanks'],
-          ['Github', 'https://github.com/jacobbanks'],
-          ['twitter', 'twitter.com/jacobbanks',],
+          ['LinkedIn', 'https://www.linkedin.com/in/jacobjbanks'],
+          ['Github', 'https://www.github.com/jacobbanks'],
+          ['twitter', 'https://www.twitter.com/jacobbanks',],
         ],
         ['Jamar Dawson',
           ['imageURL', jay],
-          ['LinkedIn', 'https://www.linkedin.com/in/jamar-dawson'],
-          ['Github', 'https://github.com/ImJustJay'],
+          ['LinkedIn', 'https://www.linkedin.com/in/jamardawson/'],
+          ['Github', 'https://www.github.com/ImJustJay'],
           ['twitter', ""],
         ],
 
         ['Jimmy Deng',
           ['imageURL', jimmy],
           ['LinkedIn', 'https://www.linkedin.com/in/zhijimmydeng/'],
-          ['Github', 'https://github.com/rev619'],
+          ['Github', 'https://www.github.com/rev619'],
           ['twitter', '',]
         ],
 
@@ -34,7 +34,7 @@ class DevProfiles extends React.Component {
           ['imageURL', juan],
           ['LinkedIn', 'http://linkedin.com/in/espinoza-juan'],
           ['Github', 'https://github.com/jespinoza17'],
-          ['twitter', 'twitter.con/wan_espinoza'],
+          ['twitter', 'httts://www.twitter.com/wan_espinoza'],
         ]
       ]
     }

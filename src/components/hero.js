@@ -1,8 +1,8 @@
 import React from "react"
 import PropTypes from "prop-types"
-
 import Button from "../components/button"
 import headerImage from "../images/header.png"
+import maingif from "../images/kubernatiGif.gif"
 import MockupContent from "./image"
 
 const Header = ({ siteTitle }) => (
@@ -30,9 +30,10 @@ const Header = ({ siteTitle }) => (
       KuberOptic helps you visuzlize your Kubernetes cluster health and structure, 
       while allowsing you to deploy new clusters from within the same application. Saving you time and money.
     </p>
-    <div style={{ margin: 50, position: "relative" }}>
+
+    <div style={{ margin: 50, position: "relative", textAlign: "center" }}>
       <div style={{ width: '50rem', height: 'auto'}}>
-        <MockupContent />
+      <img src={maingif} alt="kuberoptic graphic" />
       </div>
       <div
         style={{

@@ -494,9 +494,9 @@ li > p {
 
 
 .features img {
-height: 12em;
-width: auto;
-border-radius: 45px;
+height: 15em;
+width: 20em;
+border-radius: 2em;
 padding: 1rem;
 }
 

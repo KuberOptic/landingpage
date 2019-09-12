@@ -1,12 +1,8 @@
 import React from "react"
-
-import feature from "../images/feature-placeholder.png"
 import imageOne from "../images/imageOne.png"
 import imageTwo from "../images/imageTwo.png"
-import imageThree from "../images/image3.png"
-import imageFour from "../images/imageThree.gif"
-import imageFive from "../images/imageOne.png"
-
+import gcp from "../images/gcp.png"
+import aws from "../images/aws.png"
 
 import SectionHeader from "./section-header"
 import { COLORS } from "../styles/constants"
@@ -50,7 +46,7 @@ const Content = () => (
         </p>
       </div>
       <div>
-        <img src={imageThree} alt="a blank card floating over colorful graphics" />
+        <img src={aws} alt="a blank card floating over colorful graphics" />
       </div>
       <div>
         <h3>Deployment Tool</h3>
@@ -59,7 +55,7 @@ const Content = () => (
         </p>
       </div>
       <div>
-        <img src={imageFour} alt="a blank card floating over colorful graphics" />
+        <img src={gcp} alt="a blank card floating over colorful graphics" />
       </div>
       <div>
         <h3>Realtime</h3>
