@@ -11,8 +11,8 @@ const IndexPage = () => (
     <SEO />
     <Hero />
     <Content />
-    <DevProfiles />
     <CallToAction />
+    <DevProfiles />
   </Layout>
 )
 

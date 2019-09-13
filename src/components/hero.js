@@ -33,7 +33,7 @@ const Header = ({ siteTitle }) => (
 
     <div style={{ margin: 50, position: "relative", textAlign: "center" }}>
       <div style={{ width: '50rem', height: 'auto'}}>
-      <img src={maingif} alt="kuberoptic graphic" />
+      <img style={{width: "auto", height: "150%"}} src={maingif} alt="kuberoptic graphic" />
       </div>
       <div
         style={{

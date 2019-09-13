@@ -15,7 +15,7 @@ const Content = () => (
     <content
       style={{
         display: "grid",
-        padding: "3rem",
+        padding: "2rem",
         alignItems: "center",
         justifyContent: "center",
         gridTemplateColumns: "repeat(auto-fit, minmax(240px, 340px))",
