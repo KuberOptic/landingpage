@@ -10,7 +10,7 @@ const CallToAction = () => (
       description="KuberOptic is currently in Alpha, but feel free to download and help test."
     />
     <div>
-      <span><a download="Download mac object" href=""><FaApple size={150} color={"#555555"}/></a></span>
+      <span><a download="Download mac object" href="https://s3.amazonaws.com/kuberoptic.com/kuberoptic.dmg"><FaApple size={150} color={"#555555"}/></a></span>
     </div>
   </div>
 )

@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>KuberOptic</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      KuberOptic helps you visuzlize your Kubernetes cluster health and structure, 
+      KuberOptic helps you visualize your Kubernetes cluster health and structure, 
       while allowsing you to deploy new clusters from within the same application. Saving you time and money.
     </p>
 
